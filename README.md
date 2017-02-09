@@ -1,2 +1,3 @@
-Android-Wiki: Android Resource Collection By Self Learning
+Android-Wiki: Android By Learning
+
 Visit: Wiki
