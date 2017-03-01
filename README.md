@@ -1,3 +1,3 @@
-Android-Wiki: Android By Learning
+#Android-Wiki: 
 
-Visit: Wiki
+##Visit: Wiki
