@@ -1,3 +1,1 @@
-#Android-Wiki: 
-
-##Visit: Wiki
+## Visit: Wiki
