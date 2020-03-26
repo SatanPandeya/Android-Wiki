@@ -23,3 +23,5 @@
 
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
+- [api-list](https://apilist.fun/)
+- [any-api](https://any-api.com/)
