@@ -12,19 +12,19 @@
 - [Learning Resources](https://github.com/zhujun2730/Android-Learning-Resources)
 - [Android Tutorial](https://github.com/topics/android-tutorial)
 - [Android Tutorials](https://github.com/adrianseraspi12/Android-Tutorials)
-- [ google-developer-training / android-fundamentals ](https://github.com/google-developer-training/android-fundamentals)
 - [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
-- [AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners)
 - [android-beginners](https://github.com/topics/android-beginners)
-- [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
 - [android-developers](https://github.com/topics/android-developers)
 - [commonsguy:cw-omnibus](https://github.com/commonsguy/cw-omnibus)
 
 # Sample Example for Developers
-- [adnroid-examples](https://github.com/SatanPandeya/android-examples)
+- [android-examples](https://github.com/SatanPandeya/android-examples)
 - [android-sample-apps](https://github.com/ooyala/android-sample-apps)
 - [stacktipslab / Advance-Android-Tutorials ](https://github.com/stacktipslab/Advance-Android-Tutorials)
 - [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
+- [ google-developer-training / android-fundamentals ](https://github.com/google-developer-training/android-fundamentals)
+- [AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners)
+- [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
 
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
