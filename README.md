@@ -22,6 +22,10 @@
 - [android-developers](https://github.com/topics/android-developers)
 - [commonsguy:cw-omnibus](https://github.com/commonsguy/cw-omnibus)
 
+# Sample Example for Developers
+- [adnroid-examples](https://github.com/SatanPandeya/android-examples)
+- [android-sample-apps](https://github.com/ooyala/android-sample-apps)
+
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
 - [api-list](https://apilist.fun/)
