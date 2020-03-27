@@ -25,6 +25,7 @@
 - [ google-developer-training / android-fundamentals ](https://github.com/google-developer-training/android-fundamentals)
 - [AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners)
 - [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
+- [udemy-android-beginner-to-advance](https://github.com/omrobbie/udemy-android-beginner-to-advance)
 
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
