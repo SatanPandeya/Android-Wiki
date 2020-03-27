@@ -27,6 +27,7 @@
 - [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
 - [udemy-android-beginner-to-advance](https://github.com/omrobbie/udemy-android-beginner-to-advance)
 - [20-awesome-open-source-android-apps-to-boost-your-development-skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
+- [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
 
 
 # Useful APIs for Developers
