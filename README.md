@@ -20,6 +20,7 @@
 - [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 - [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
 - [android-developers](https://github.com/topics/android-developers)
+- [commonsguy:cw-omnibus](https://github.com/commonsguy/cw-omnibus)
 
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
