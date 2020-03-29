@@ -16,6 +16,7 @@
 - [android-beginners](https://github.com/topics/android-beginners)
 - [android-developers](https://github.com/topics/android-developers)
 - [commonsguy:cw-omnibus](https://github.com/commonsguy/cw-omnibus)
+- [codepath-android-guides](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 
 # Sample Example for Developers
 - [android-examples](https://github.com/SatanPandeya/android-examples)
