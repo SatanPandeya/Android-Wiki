@@ -32,6 +32,7 @@ My curated list of resources for learning Android Development.
 - [udemy-android-beginner-to-advance](https://github.com/omrobbie/udemy-android-beginner-to-advance)
 - [20-awesome-open-source-android-apps-to-boost-your-development-skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 - [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
+- [Android open project](https://github.com/Trinea/android-open-project)
 
 
 # Useful APIs for Developers
