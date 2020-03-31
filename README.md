@@ -39,7 +39,10 @@ My curated list of resources for learning Android Development.
 - [api-list](https://apilist.fun/)
 - [any-api](https://any-api.com/)
 
-# Tools 
+# Dev Tools 
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&actionbarstyle=solid&texture=0&hairline=0&neutralPressed=1&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tabColor=33B5E5%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100&cabBackColor=FFFFFF%2C100&cabHighlightColor=33B5E5%2C100)
 - [Material design icon](https://material.io/resources/icons/?style=baseline)
 - [materialdesignicons](https://materialdesignicons.com/)
+- [Icon finder](https://www.iconfinder.com/)
+- [Android dev tools](https://github.com/inferjay/AndroidDevTools)
+- [Genymotion](https://www.genymotion.com/)
