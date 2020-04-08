@@ -30,14 +30,18 @@ My curated list of resources for learning Android Development.
 - [AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners)
 - [Android-Development-for-Beginners-by-Udacity](https://github.com/Liza-S/Android-Development-for-Beginners-by-Udacity)
 - [udemy-android-beginner-to-advance](https://github.com/omrobbie/udemy-android-beginner-to-advance)
-- [20-awesome-open-source-android-apps-to-boost-your-development-skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
-- [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
-- [Android-MVP-Sample-Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application)
-- [Android open project](https://github.com/Trinea/android-open-project)
+- [20-awesome-open-source-android-apps-to-boost-your-development-skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)- [Android open project](https://github.com/Trinea/android-open-project)
 - [Free and open source android apps](https://fossdroid.com/)
 - [apps-for-android](https://code.google.com/archive/p/apps-for-android/)
 - [List of open source mobile applications:mobilegap](https://www.mobilegap.net/)
 - [What are some of the best open source Android apps? Quora](https://www.quora.com/Android-Applications/What-are-some-of-the-best-open-source-Android-apps)
+
+# Few Examples for MVP Patterns
+- [hello-mvp](https://github.com/quangctkm9207/hello-mvp)
+- [Simple-MVP-Example](https://github.com/ashu10832/Simple-MVP-Example)
+- [MVP-example](https://github.com/mohanmanu484/MVP-example)
+- [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
+- [Android-MVP-Sample-Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application)
 
 
 # Useful APIs for Developers
