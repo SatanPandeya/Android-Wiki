@@ -33,6 +33,10 @@ My curated list of resources for learning Android Development.
 - [20-awesome-open-source-android-apps-to-boost-your-development-skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 - [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
 - [Android open project](https://github.com/Trinea/android-open-project)
+- [Free and open source android apps](https://fossdroid.com/)
+- [apps-for-android](https://code.google.com/archive/p/apps-for-android/)
+- [List of open source mobile applications:mobilegap](https://www.mobilegap.net/)
+- [What are some of the best open source Android apps? Quora](https://www.quora.com/Android-Applications/What-are-some-of-the-best-open-source-Android-apps)
 
 
 # Useful APIs for Developers
