@@ -56,3 +56,18 @@ My curated list of resources for learning Android Development.
 - [Icon finder](https://www.iconfinder.com/)
 - [Android dev tools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion](https://www.genymotion.com/)
+
+# Learning Resource for Kotlin in Github
+- [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
+- [Android-Course-Kotlin](https://github.com/alejouribesanchez/androidCourseKotlin)
+- [Learning-Kotlin](https://github.com/rashel007/LearningKotlin)
+- [Let's-Learning-Kotlin-](https://github.com/AgustaRC/Learning-Kotlin/tree/master/src)
+- [Learn Kotlin programming from scratch ](https://github.com/smartherd/KotlinTutorial)
+- [Google-Developer-Training -Kotlin-Fundamentals-Apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+- [learn-kotlin-for-android-development](https://github.com/Apress/learn-kotlin-for-android-development?files=1)
+
+# Kotlin Exercise
+- [Solutions to the Kotlin exercises on exercism.io](https://github.com/rojiani/kotlin-exercism)
+- [Random exercise on Kotlin](https://github.com/jdleo/Learning-Kotlin)
+- [Android-Udacity-Project-in-Kotlin](https://github.com/anandwana001/Android-Udacity-Project-in-Kotlin/tree/master/Android%20Basic)
+- [Learning-Kotlin-by-building-Android-Applications](https://github.com/PacktPublishing/Learning-Kotlin-by-building-Android-Applications)
