@@ -58,6 +58,8 @@ My curated list of resources for learning Android Development.
 - [Genymotion](https://www.genymotion.com/)
 
 # Learning Resource for Kotlin in Github
+- [Awesome-Kotlin](https://github.com/SatanPandeya/awesome-kotlin)
+- [Awesome-Kotlin-1](https://github.com/SatanPandeya/awesome-kotlin-1)
 - [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
 - [Android-Course-Kotlin](https://github.com/alejouribesanchez/androidCourseKotlin)
 - [Learning-Kotlin](https://github.com/rashel007/LearningKotlin)
