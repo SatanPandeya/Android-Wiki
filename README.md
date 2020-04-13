@@ -7,6 +7,7 @@ My curated list of resources for learning Android Development.
 - [Java Learning or Review](https://gist.github.com/nesquena/6136ca4c461a9309e579)
 - [Android Developer Reources](http://blog.udacity.com/2015/06/30-android-developer-resources.html)
 - [Android Tutorial - Learn Android Development](https://mindorks.com/android-tutorial)
+- [Snowdream-Awesome-Android](https://snowdream.github.io/awesome-android/)
 
 # Github Learning Resources Collection:
 - [CodementorIO](https://github.com/CodementorIO/Android-Learning-Resources)
@@ -16,13 +17,20 @@ My curated list of resources for learning Android Development.
 - [Android Tutorial](https://github.com/topics/android-tutorial)
 - [Android Tutorials](https://github.com/adrianseraspi12/Android-Tutorials)
 - [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
+- [awesome-android-learner](https://github.com/MakinGiants/awesome-android-learner)
+- [Ultimate-Android-Reference](https://github.com/aritraroy/UltimateAndroidReference)
+- [android-architecture-samples](https://github.com/android/architecture-samples)
+- [android-community](https://github.com/tonilopezmr/android-community)
 - [android-beginners](https://github.com/topics/android-beginners)
 - [android-developers](https://github.com/topics/android-developers)
 - [commonsguy:cw-omnibus](https://github.com/commonsguy/cw-omnibus)
 - [codepath-android-guides](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
+- [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
 # Sample Example for Developers
-- [android-examples](https://github.com/SatanPandeya/android-examples)
+- [cw-android](https://github.com/commonsguy/cw-android)
+- [cw-andtutorials](https://github.com/ebadia/cw-andtutorials)
+- [android-examples](https://github.com/nisrulz/android-examples)
 - [android-sample-apps](https://github.com/ooyala/android-sample-apps)
 - [stacktipslab / Advance-Android-Tutorials ](https://github.com/stacktipslab/Advance-Android-Tutorials)
 - [Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
@@ -73,3 +81,12 @@ My curated list of resources for learning Android Development.
 - [Random exercise on Kotlin](https://github.com/jdleo/Learning-Kotlin)
 - [Android-Udacity-Project-in-Kotlin](https://github.com/anandwana001/Android-Udacity-Project-in-Kotlin/tree/master/Android%20Basic)
 - [Learning-Kotlin-by-building-Android-Applications](https://github.com/PacktPublishing/Learning-Kotlin-by-building-Android-Applications)
+
+# Learning Resource for React Native in Github
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide)
+- [react-native-community](https://github.com/ericvicenti/react-native-community)
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [react-native-material-kit](https://github.com/xinthink/react-native-material-kit)
+
+# Blog Resource for React Native
+- [React Native](https://reactnative.dev/)
