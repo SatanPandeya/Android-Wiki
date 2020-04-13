@@ -65,6 +65,17 @@ My curated list of resources for learning Android Development.
 - [Android dev tools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion](https://www.genymotion.com/)
 
+# Remote work and its handling: tools
+- [Online Meeting Software](https://www.gotomeeting.com/)
+- [Basecamp: Project management & Team Communication Software](https://basecamp.com/)
+- [Smart Employee Time Tracking Software with Screenshot](https://www.timedoctor.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Sketch Cloud](https://sketch.cloud)
+- [Design to dev handoff](https://zeplin.io/)
+- [InVision।Digital product design](https://www.invisionapp.com/)
+- [SSH Client: Termius](https://www.termius.com/)
+- [Slack](https://slack.com/intl/en-np/)
+
 # Learning Resource for Kotlin in Github
 - [Awesome-Kotlin-1](https://github.com/KotlinBy/awesome-kotlin)
 - [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
