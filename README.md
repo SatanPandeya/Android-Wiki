@@ -46,6 +46,7 @@ My curated list of resources for learning Android Development.
 
 # Few Examples for MVP Patterns
 - [hello-mvp](https://github.com/quangctkm9207/hello-mvp)
+- [HelloWorldMVP](https://github.com/khakharsagar/HelloWorldMVP)
 - [Simple-MVP-Example](https://github.com/ashu10832/Simple-MVP-Example)
 - [MVP-example](https://github.com/mohanmanu484/MVP-example)
 - [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
