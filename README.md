@@ -51,6 +51,8 @@ My curated list of resources for learning Android Development.
 - [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
 - [Android-MVP-Sample-Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application)
 
+# Interesting Android Repositories
+- [Interesting-Android-repositories](https://github.com/AlexanderGarmash/Interesting-Android-repositories)
 
 # Useful APIs for Developers
 - [public-apis](https://github.com/public-apis/public-apis)
