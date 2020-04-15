@@ -27,7 +27,7 @@ My curated list of resources for learning Android Development.
 - [codepath-android-guides](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
-# Sample Example for Developers
+# Sample Example for Developers:
 - [cw-android](https://github.com/commonsguy/cw-android)
 - [cw-andtutorials](https://github.com/ebadia/cw-andtutorials)
 - [android-examples](https://github.com/nisrulz/android-examples)
@@ -44,7 +44,7 @@ My curated list of resources for learning Android Development.
 - [List of open source mobile applications:mobilegap](https://www.mobilegap.net/)
 - [What are some of the best open source Android apps? Quora](https://www.quora.com/Android-Applications/What-are-some-of-the-best-open-source-Android-apps)
 
-# Few Examples for MVP Patterns
+# Few Examples for MVP Patterns:
 - [hello-mvp](https://github.com/quangctkm9207/hello-mvp)
 - [HelloWorldMVP](https://github.com/khakharsagar/HelloWorldMVP)
 - [Simple-MVP-Example](https://github.com/ashu10832/Simple-MVP-Example)
@@ -52,15 +52,15 @@ My curated list of resources for learning Android Development.
 - [android-mvp-basic-sample](https://github.com/MindorksOpenSource/android-mvp-basic-sample)
 - [Android-MVP-Sample-Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application)
 
-# Interesting Android Repositories
+# Interesting Android Repositories:
 - [Interesting-Android-repositories](https://github.com/AlexanderGarmash/Interesting-Android-repositories)
 
-# Useful APIs for Developers
+# Useful APIs for Developers:
 - [public-apis](https://github.com/public-apis/public-apis)
 - [api-list](https://apilist.fun/)
 - [any-api](https://any-api.com/)
 
-# Dev Tools 
+# Dev Tools: 
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&actionbarstyle=solid&texture=0&hairline=0&neutralPressed=1&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tabColor=33B5E5%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100&cabBackColor=FFFFFF%2C100&cabHighlightColor=33B5E5%2C100)
 - [Material design icon](https://material.io/resources/icons/?style=baseline)
 - [materialdesignicons](https://materialdesignicons.com/)
@@ -68,7 +68,7 @@ My curated list of resources for learning Android Development.
 - [Android dev tools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion](https://www.genymotion.com/)
 
-# Remote work and its handling: tools
+# Remote work and its handling, tools:
 - [Online Meeting Software](https://www.gotomeeting.com/)
 - [Basecamp: Project management & Team Communication Software](https://basecamp.com/)
 - [Smart Employee Time Tracking Software with Screenshot](https://www.timedoctor.com/)
@@ -79,7 +79,7 @@ My curated list of resources for learning Android Development.
 - [SSH Client: Termius](https://www.termius.com/)
 - [Slack](https://slack.com/intl/en-np/)
 
-# Learning Resource for Kotlin in Github
+# Learning Resource for Kotlin in Github:
 - [Awesome-Kotlin-1](https://github.com/KotlinBy/awesome-kotlin)
 - [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
 - [Android-Course-Kotlin](https://github.com/alejouribesanchez/androidCourseKotlin)
@@ -89,17 +89,21 @@ My curated list of resources for learning Android Development.
 - [Google-Developer-Training -Kotlin-Fundamentals-Apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
 - [learn-kotlin-for-android-development](https://github.com/Apress/learn-kotlin-for-android-development?files=1)
 
-# Kotlin Exercise
+# Kotlin Exercise:
 - [Solutions to the Kotlin exercises on exercism.io](https://github.com/rojiani/kotlin-exercism)
 - [Random exercise on Kotlin](https://github.com/jdleo/Learning-Kotlin)
 - [Android-Udacity-Project-in-Kotlin](https://github.com/anandwana001/Android-Udacity-Project-in-Kotlin/tree/master/Android%20Basic)
 - [Learning-Kotlin-by-building-Android-Applications](https://github.com/PacktPublishing/Learning-Kotlin-by-building-Android-Applications)
 
-# Learning Resource for React Native in Github
+# Learning Resource for React Native in Github:
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide)
 - [react-native-community](https://github.com/ericvicenti/react-native-community)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [react-native-material-kit](https://github.com/xinthink/react-native-material-kit)
 
-# Blog Resource for React Native
+# Blog Resource for React Native:
 - [React Native](https://reactnative.dev/)
+
+# Today-I-Learned:
+- [Today I Learned :01](https://github.com/wajahatkarim3/Today-I-Learned)
+- [Today I Learned :02](https://github.com/anitaa1990/Today-I-Learned)
