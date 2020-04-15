@@ -60,25 +60,6 @@ My curated list of resources for learning Android Development.
 - [api-list](https://apilist.fun/)
 - [any-api](https://any-api.com/)
 
-# Dev Tools: 
-- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&actionbarstyle=solid&texture=0&hairline=0&neutralPressed=1&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tabColor=33B5E5%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100&cabBackColor=FFFFFF%2C100&cabHighlightColor=33B5E5%2C100)
-- [Material design icon](https://material.io/resources/icons/?style=baseline)
-- [materialdesignicons](https://materialdesignicons.com/)
-- [Icon finder](https://www.iconfinder.com/)
-- [Android dev tools](https://github.com/inferjay/AndroidDevTools)
-- [Genymotion](https://www.genymotion.com/)
-
-# Remote work and its handling, tools:
-- [Online Meeting Software](https://www.gotomeeting.com/)
-- [Basecamp: Project management & Team Communication Software](https://basecamp.com/)
-- [Smart Employee Time Tracking Software with Screenshot](https://www.timedoctor.com/)
-- [Bitbucket](https://bitbucket.org/)
-- [Sketch Cloud](https://sketch.cloud)
-- [Design to dev handoff](https://zeplin.io/)
-- [InVision।Digital product design](https://www.invisionapp.com/)
-- [SSH Client: Termius](https://www.termius.com/)
-- [Slack](https://slack.com/intl/en-np/)
-
 # Learning Resource for Kotlin in Github:
 - [Awesome-Kotlin-1](https://github.com/KotlinBy/awesome-kotlin)
 - [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
@@ -107,3 +88,27 @@ My curated list of resources for learning Android Development.
 # Today-I-Learned:
 - [Today I Learned :01](https://github.com/wajahatkarim3/Today-I-Learned)
 - [Today I Learned :02](https://github.com/anitaa1990/Today-I-Learned)
+- [Today I Learned :03](https://github.com/nootfly/TIL)
+- [Today I Learned :04](https://github.com/HamdiBoumaiza/Today-i-learned)
+- [Today I Learned :05](https://github.com/TomazWang/TIL-today-i-learned)
+- [Today I Learned :06](https://github.com/Jasonarea/AndroidStudy)
+
+# Dev Tools: 
+- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&actionbarstyle=solid&texture=0&hairline=0&neutralPressed=1&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tabColor=33B5E5%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100&cabBackColor=FFFFFF%2C100&cabHighlightColor=33B5E5%2C100)
+- [Material design icon](https://material.io/resources/icons/?style=baseline)
+- [materialdesignicons](https://materialdesignicons.com/)
+- [Icon finder](https://www.iconfinder.com/)
+- [Android dev tools](https://github.com/inferjay/AndroidDevTools)
+- [Genymotion](https://www.genymotion.com/)
+
+# Remote work and its handling, tools:
+- [Online Meeting Software](https://www.gotomeeting.com/)
+- [Basecamp: Project management & Team Communication Software](https://basecamp.com/)
+- [Smart Employee Time Tracking Software with Screenshot](https://www.timedoctor.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Sketch Cloud](https://sketch.cloud)
+- [Design to dev handoff](https://zeplin.io/)
+- [InVision।Digital product design](https://www.invisionapp.com/)
+- [SSH Client: Termius](https://www.termius.com/)
+- [Slack](https://slack.com/intl/en-np/)
+
