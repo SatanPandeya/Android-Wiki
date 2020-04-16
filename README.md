@@ -56,6 +56,15 @@ My curated list of resources for learning Android Development.
 
 # Interesting Android Repositories:
 - [Interesting-Android-repositories](https://github.com/AlexanderGarmash/Interesting-Android-repositories)
+- [ugics-2018-android-basics-wiki](https://github.com/piedcipher/ugics-2018-android-basics-wiki)
+- [Udacity-Google-India-Challenge-Scholarship-Projects-Phase-1](https://github.com/piedcipher/Udacity-Google-India-Challenge-Scholarship-Projects-Phase-1)
+- [Udacity-Google-India-Challenge-Scholarship-Projects-Phase-2](https://github.com/piedcipher/Udacity-Google-India-Challenge-Scholarship-Projects-Phase-2)
+- [Android-Basics](https://github.com/MtsRovari/Android-Basics)
+- [Android-Basics-Course---Udacity](https://github.com/ines96/Android-Basics-Course---Udacity)
+- [we-love-android](https://github.com/fengdexunmi/we-love-android)
+- [Androids-Basics-Udacity-NewsFeed](https://github.com/JacqBlaq/Androids-Basics-Udacity-NewsFeed)
+- [ANDROID_BASICS](https://github.com/ayoubeddafali/ANDROID_BASICS)
+- [MobileProgramming](https://github.com/kvmuralikrishna1993/MobileProgramming)
 
 # Android-Cheatsheet-Interview-Question
 - [Android-Cheat-sheet](https://github.com/anitaa1990/Android-Cheat-sheet)
