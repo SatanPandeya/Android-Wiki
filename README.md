@@ -1,15 +1,25 @@
 # Android-Learning-Resources
 
 My curated list of resources for learning Android Development.
+
+# Java in Github
+- [Java Learning or Review](https://gist.github.com/nesquena/6136ca4c461a9309e579)
+- [java-a-course-for-beginners](https://github.com/in28minutes/java-a-course-for-beginners)
+- [LearnJava](https://github.com/mafudge/LearnJava)
+- [JavaTutorial](https://github.com/smartherd/JavaTutorial)
+- [java-tutorial-for-beginners](https://github.com/in28minutes/java-tutorial-for-beginners)
+- [java-for-absolute-beginners](https://github.com/Apress/java-for-absolute-beginners)
+- [Learn-Java-12-Programming](https://github.com/PacktPublishing/Learn-Java-12-Programming)
+- [Java-Programming-for-Beginners](https://github.com/PacktPublishing/Java-Programming-for-Beginners)
+
 # Blog Resources:
 - [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 - [TechnoTalkative](http://www.technotalkative.com/)
-- [Java Learning or Review](https://gist.github.com/nesquena/6136ca4c461a9309e579)
 - [Android Developer Reources](http://blog.udacity.com/2015/06/30-android-developer-resources.html)
 - [Android Tutorial - Learn Android Development](https://mindorks.com/android-tutorial)
 - [Snowdream-Awesome-Android](https://snowdream.github.io/awesome-android/)
 
-# Github Learning Resources Collection:
+# Android in Github:
 - [CodementorIO](https://github.com/CodementorIO/Android-Learning-Resources)
 - [Android Learning Resources](https://github.com/Plastix/Android-Learning-Resources)
 - [Android Resources](https://github.com/Tikitoo/android-resources)
@@ -87,7 +97,7 @@ My curated list of resources for learning Android Development.
 - [api-list](https://apilist.fun/)
 - [any-api](https://any-api.com/)
 
-# Learning Resource for Kotlin in Github:
+# Kotlin in Github:
 - [Awesome-Kotlin-1](https://github.com/KotlinBy/awesome-kotlin)
 - [Kotlin-Resources](https://github.com/chemouna/Kotlin-Resources)
 - [Android-Course-Kotlin](https://github.com/alejouribesanchez/androidCourseKotlin)
@@ -103,13 +113,13 @@ My curated list of resources for learning Android Development.
 - [Android-Udacity-Project-in-Kotlin](https://github.com/anandwana001/Android-Udacity-Project-in-Kotlin/tree/master/Android%20Basic)
 - [Learning-Kotlin-by-building-Android-Applications](https://github.com/PacktPublishing/Learning-Kotlin-by-building-Android-Applications)
 
-# Learning Resource for React Native in Github:
+# React Native in Github:
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide)
 - [react-native-community](https://github.com/ericvicenti/react-native-community)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [react-native-material-kit](https://github.com/xinthink/react-native-material-kit)
 
-# Blog Resource for React Native:
+# Blog for React Native:
 - [React Native](https://reactnative.dev/)
 
 # Today-I-Learned:
