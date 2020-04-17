@@ -37,6 +37,18 @@ My curated list of resources for learning Android Development.
 - [codepath-android-guides](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
+# Android UI Templates 
+- [Android-ui-templates](https://github.com/wsdesignuiux/Android-ui-templates)
+- [android-app-template](https://github.com/topics/android-app-template)
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [beautiful-android-ui](https://github.com/superdevzhao/beautiful-android-ui)
+- [Android-Material-Design-Template](https://github.com/osmangoninahid/Android-Material-Design-Template)
+- [Material-Design-UI-Template](https://github.com/kildo162/Material-Design-UI-Template)
+- [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
+- [Awesome-Android-UI](https://github.com/vimalcvs/Awesome-Android-UI)
+- [android-github: pinterest](https://www.pinterest.com/yaswantn/android-github/)
+
+
 # Sample Example for Developers:
 - [cw-android](https://github.com/commonsguy/cw-android)
 - [cw-andtutorials](https://github.com/ebadia/cw-andtutorials)
