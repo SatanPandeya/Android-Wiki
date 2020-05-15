@@ -11,6 +11,13 @@ My curated list of resources for learning Android Development.
 - [java-for-absolute-beginners](https://github.com/Apress/java-for-absolute-beginners)
 - [Learn-Java-12-Programming](https://github.com/PacktPublishing/Learn-Java-12-Programming)
 - [Java-Programming-for-Beginners](https://github.com/PacktPublishing/Java-Programming-for-Beginners)
+- [java-a-course-for-beginners](https://github.com/in28minutes/java-a-course-for-beginners)
+- [java8-tutorial](https://github.com/winterbe/java8-tutorial)
+- [Learn-Java](https://github.com/mafudge/LearnJava)
+- [java-tutorials](https://github.com/eugenp/tutorials)
+- [Java-Programs](https://github.com/divScorp/Java-Programs)
+- [Important-Java-Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
+- [java-courses](https://github.com/salimt/Courses-)
 
 # Blog Resources:
 - [CodePath Android Cliffnotes](https://guides.codepath.com/android)
