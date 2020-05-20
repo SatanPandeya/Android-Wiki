@@ -134,6 +134,8 @@ My curated list of resources for learning Android Development.
 
 # React Native in Github:
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide)
+- [react-native-examples-and-tutorials](https://github.com/HandlebarLabs/react-native-examples-and-tutorials)
+- [react-native-basic-tutorial](https://github.com/dlehdanakf/react-native-basic-tutorial)
 - [react-native-community](https://github.com/ericvicenti/react-native-community)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [react-native-material-kit](https://github.com/xinthink/react-native-material-kit)
