@@ -3,6 +3,7 @@
 My curated list of resources for learning Android Development.
 
 # Java in Github
+- [Java-Developer-Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [Java Learning or Review](https://gist.github.com/nesquena/6136ca4c461a9309e579)
 - [java-a-course-for-beginners](https://github.com/in28minutes/java-a-course-for-beginners)
 - [LearnJava](https://github.com/mafudge/LearnJava)
