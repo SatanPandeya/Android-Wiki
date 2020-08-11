@@ -58,6 +58,7 @@ My curated list of resources for learning Android Development.
 
 
 # Sample Example for Developers:
+- [architecture-components-samples](https://github.com/android/architecture-components-samples)
 - [cw-android](https://github.com/commonsguy/cw-android)
 - [cw-andtutorials](https://github.com/ebadia/cw-andtutorials)
 - [coursera-android](https://github.com/aporter/coursera-android)
