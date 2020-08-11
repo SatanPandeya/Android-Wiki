@@ -56,7 +56,8 @@ My curated list of resources for learning Android Development.
 - [Awesome-Android-UI](https://github.com/vimalcvs/Awesome-Android-UI)
 - [android-github: pinterest](https://www.pinterest.com/yaswantn/android-github/)
 
-
+# Sample Example of LiveData, ViewModel, Room, Workmanager Only
+- [android-architecture-components-mvvm-retrofit-with-java](https://github.com/shantudash/android-architecture-components-mvvm-retrofit-java/tree/master/app/src/main/java/com/snipex/shantu/androidarchitecturecomponentsmvvmretrofitwithjava)
 # Sample Example for Developers:
 - [architecture-components-samples](https://github.com/android/architecture-components-samples)
 - [cw-android](https://github.com/commonsguy/cw-android)
